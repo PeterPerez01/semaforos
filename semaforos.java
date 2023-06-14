@@ -12,7 +12,6 @@ class semaforos{
 		
 		System.out.println("");
 		System.out.println("INICIA PROGRAMA");
-		System.out.println("2020 SISTEMAS OPERATIVOS");
 		System.out.println("SEMAFOROS");
 		System.out.println("");
 		semaforo=true;
